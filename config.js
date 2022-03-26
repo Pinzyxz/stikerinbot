@@ -1,37 +1,37 @@
 let fs = require('fs')
 let chalk = require('chalk')
 
-global.owner = ['6283128734012', '6287755080455'] // Letakan nomor kamu disini
+global.owner = ['6285870054532', '62882003850739'] // Letakan nomor kamu disini
 
 global.APIs = { // API Prefix
   // nama: 'https://website'
   amel: 'https://melcanz.com',
   bx: 'https://bx-hunter.herokuapp.com',
-  rey: 'https://api.reysekha.my.id',
+  rey: 'https://server-api-rey.herokuapp.com',
   dhnjing: 'https://dhnjing.xyz',
-  hardianto: 'https://hardianto.xyz',
+  hardianto: 'https://hardianto-chan.herokuapp.com',
   neoxr: 'https://api.neoxr.eu.org',
   nrtm: 'https://nurutomo.herokuapp.com',
-  pencarikode: 'https://api.chipa.xyz',
+  pencarikode: 'https://pencarikode.xyz',
   waifupics: 'https://api.waifu.pics',
   xteam: 'https://api.xteam.xyz',
-  zeks: 'https://api.zeks.me',
+  zeks: 'https://api.zeks.xyz',
 }
 global.APIKeys = { // APIKey nya disini
   // 'https://website': 'apikey'
   'https://melcanz.com': 'trial',
-  'https://api.reysekha.my.id': 'apirey',
+  'https://server-api-rey.herokuapp.com': 'apirey',
   'https://bx-hunter.herokuapp.com': 'Ikyy69',
-  'https://hardianto.xyz': 'hardianto',
-  'https://api.neoxr.eu.org': 'yntkts',
-  'https://api.chipa.xyz': 'pais',
+  'https://hardianto-chan.herokuapp.com': 'hardianto',
+  'https://neoxr-api.herokuapp.com': 'yntkts',
+  'https://pencarikode.xyz': 'pais',
   'https://api.xteam.xyz': 'apikeymu',
-  'https://api.zeks.me': 'apivinz',
+  'https://api.zeks.xyz': 'apivinz',
 }
 
 // Sticker WM
-global.packname = 'arif️fb'
-global.author = 'amel'
+global.packname = '𝑽𝒊𝒆𝒏𝒛𝒚'
+global.author = 'ur mine '
 
 global.wm = '© ariffb & melcanz'
 global.wait = '_*tunggu sedang diproses...*_'
